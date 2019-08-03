@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://www.12hour.cn/"/>
+  <link href="http://12hour.cn/blog/"/>
   <updated>2019-08-02T09:26:12.287Z</updated>
-  <id>http://www.12hour.cn/</id>
+  <id>http://12hour.cn/blog/</id>
   
   <author>
     <name>Jingaier</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.12hour.cn/2019/08/02/hello-world/"/>
-    <id>http://www.12hour.cn/2019/08/02/hello-world/</id>
+    <link href="http://12hour.cn/blog/2019/08/02/hello-world/"/>
+    <id>http://12hour.cn/blog/2019/08/02/hello-world/</id>
     <published>2019-08-02T15:15:08.006Z</published>
     <updated>2019-08-02T09:26:12.287Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>测试-从此开始了记录人生</title>
-    <link href="http://www.12hour.cn/2019/08/02/%E6%B5%8B%E8%AF%95-%E4%BB%8E%E6%AD%A4%E5%BC%80%E5%A7%8B%E4%BA%86%E8%AE%B0%E5%BD%95%E4%BA%BA%E7%94%9F/"/>
-    <id>http://www.12hour.cn/2019/08/02/测试-从此开始了记录人生/</id>
+    <link href="http://12hour.cn/blog/2019/08/02/%E6%B5%8B%E8%AF%95-%E4%BB%8E%E6%AD%A4%E5%BC%80%E5%A7%8B%E4%BA%86%E8%AE%B0%E5%BD%95%E4%BA%BA%E7%94%9F/"/>
+    <id>http://12hour.cn/blog/2019/08/02/测试-从此开始了记录人生/</id>
     <published>2019-08-02T09:32:07.000Z</published>
     <updated>2019-08-02T09:32:07.554Z</updated>
     
